@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="LearnSpringFrameworkApplicationTests" project="learn-spring-framework" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.in28minutes.learnspringframework.LearnSpringFrameworkApplicationTests" time="0.769" displayname="LearnSpringFrameworkApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.in28minutes.learnspringframework.LearnSpringFrameworkApplicationTests]">
+    <testcase name="contextLoads" classname="com.in28minutes.learnspringframework.LearnSpringFrameworkApplicationTests" time="0.769" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:com.in28minutes.learnspringframework.LearnSpringFrameworkApplicationTests]/[method:contextLoads()]"/>
+  </testsuite>
+</testrun>
