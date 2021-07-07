@@ -1,0 +1,140 @@
+2021-07-06 16:54:02,008 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-07-06 16:56:10,837 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes:learn-spring-framework:0.0.1-SNAPSHOT @ C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\pom.xml.
+2021-07-06 16:56:17,979 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /learn-spring-framework/src/main/java
+2021-07-06 16:56:17,980 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /learn-spring-framework/src/main/resources
+2021-07-06 16:56:17,992 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /learn-spring-framework/src/main/resources
+2021-07-06 16:56:18,006 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /learn-spring-framework/src/test/java
+2021-07-06 16:56:22,051 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 24 sec
+2021-07-06 16:56:23,129 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 16:56:23,129 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 16:56:23,135 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 16:56:23,154 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 16:56:23,159 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 16:56:23,159 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 16:56:23,159 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 16:57:38,792 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 16:57:38,792 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 16:57:38,794 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 16:57:38,794 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 16:57:38,797 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 16:57:38,797 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 16:57:38,798 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:20:06,137 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:20:06,138 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:20:06,142 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:20:06,168 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:20:06,173 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:20:06,173 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:20:06,174 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:20:23,104 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:20:23,104 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:20:23,105 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:20:23,123 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:20:23,126 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:20:23,127 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:20:23,127 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:21:59,534 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:21:59,536 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:21:59,537 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:21:59,552 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:21:59,556 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:21:59,557 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:21:59,557 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:31:42,125 [Worker-38: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:31:42,126 [Worker-38: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:31:42,128 [Worker-38: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:31:42,177 [Worker-38: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:31:42,182 [Worker-38: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:31:42,182 [Worker-38: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:31:42,183 [Worker-38: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:32:17,970 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:32:17,971 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:32:17,972 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:32:17,995 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:32:17,998 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:32:17,998 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:32:17,999 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:33:16,812 [Worker-37: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:33:16,812 [Worker-37: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:33:16,814 [Worker-37: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:33:16,839 [Worker-37: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:33:16,845 [Worker-37: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:33:16,845 [Worker-37: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:33:16,845 [Worker-37: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:34:30,964 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:34:30,965 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:34:30,966 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:34:30,995 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:34:30,999 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:34:31,000 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:34:31,000 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:36:49,130 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:36:49,131 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:36:49,133 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:36:49,179 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:36:49,191 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:36:49,192 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:36:49,192 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:40:14,158 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:40:14,158 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:40:14,160 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:40:14,188 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:40:14,192 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:40:14,193 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:40:14,193 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:42:47,422 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:42:47,422 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:42:47,423 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:42:47,456 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:42:47,463 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:42:47,464 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:42:47,464 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:45:09,710 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:45:09,711 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:45:09,713 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:45:09,749 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:45:09,755 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:45:09,756 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:45:09,756 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:45:22,595 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:45:22,595 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:45:22,596 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:45:22,620 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:45:22,624 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:45:22,625 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:45:22,625 [Worker-44: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:46:55,696 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:46:55,696 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:46:55,699 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:46:55,726 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:46:55,732 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:46:55,733 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:46:55,733 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:47:41,231 [Worker-50: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:47:41,232 [Worker-50: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:47:41,234 [Worker-50: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:47:41,265 [Worker-50: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:47:41,273 [Worker-50: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:47:41,273 [Worker-50: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:47:41,273 [Worker-50: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:48:21,999 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:48:21,999 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:48:22,000 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:48:22,025 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:48:22,029 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:48:22,029 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:48:22,030 [Worker-49: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 18:57:37,452 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:57:37,453 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:57:37,454 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 18:57:37,482 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 18:57:37,487 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 18:57:37,487 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 18:57:37,488 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
+2021-07-06 19:04:58,996 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 19:04:58,996 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 19:04:58,998 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-06 19:04:59,028 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-06 19:04:59,032 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-06 19:04:59,032 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-06 19:04:59,032 [Worker-40: Launching LearnSpringFrameworkApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\6J3399897\Documents\learn-spring-framework\learn-spring-framework\src\test\resources
